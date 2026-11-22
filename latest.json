@@ -5,5 +5,5 @@
   "apkUrl": "https://github.com/etozheshrainer/yandex-music-presence-updates/releases/download/v0.17/YandexMusicPresence-v0.17.apk",
   "sizeBytes": 10394882,
   "sha256": "487b61d7a99cbe2500e6c5df8424ae94583bc7e68eeb53edce5edbc61c7a55f4",
-  "changes": "Первый релиз с постоянной подписью и встроенными обновлениями"
+  "changes": "Новая иконка приложения Yandex Music Presence: сине-фиолетовый фон, Discord и музыкальный символ. Прочие функции без изменений."
 }
