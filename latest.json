@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
+  "versionCode": 22,
+  "versionName": "0.22",
   "packageName": "com.example.yamusicpresence",
-  "apkUrl": "https://github.com/etozheshrainer/yandex-music-presence-updates/releases/download/v0.21/YandexMusicPresence-v0.21.apk",
-  "sizeBytes": 10821387,
-  "sha256": "a7222bf7b1189d95df8abfb5ce36a6505d00415b36a3e024181f9a483ce2fa8d",
+  "apkUrl": "https://github.com/etozheshrainer/yandex-music-presence-updates/releases/download/v0.22/YandexMusicPresence-v0.22.apk",
+  "sizeBytes": 10821647,
+  "sha256": "080ae1d78b7717fe7d1f7ddccf57ef4bb56417e8f3d38d031eebc8af35f52336",
   "changes": "Первый релиз с постоянной подписью и встроенными обновлениями"
 }
