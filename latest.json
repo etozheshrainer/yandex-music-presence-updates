@@ -5,5 +5,5 @@
   "apkUrl": "https://github.com/etozheshrainer/yandex-music-presence-updates/releases/download/v0.16/YandexMusicPresence-v0.16.apk",
   "sizeBytes": 10390445,
   "sha256": "5f7a508552ca4813361a45b6c65bbfc3105c243932fe5964d9879e12c01b6d57",
-  "changes": "Первый релиз с постоянной подписью и встроенными обновлениями"
+  "changes": "Исправлено отображение кнопки Discord: «Открыть трек» при точной ссылке или «Найти трек» при поиске. Добавлены проверка кнопки на 20 секунд и диагностика."
 }
