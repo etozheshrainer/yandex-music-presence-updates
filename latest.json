@@ -5,5 +5,5 @@
   "apkUrl": "https://github.com/etozheshrainer/yandex-music-presence-updates/releases/download/v0.15/YandexMusicPresence-v0.15.apk",
   "sizeBytes": 10384545,
   "sha256": "d394db5c36158d4f859b62cb4355c90e96d8b1b9243a94c3210bda3b0a4782c7",
-  "changes": "Первый релиз с постоянной подписью и встроенными обновлениями"
+  "changes": "Кнопка «Открыть трек» в Discord: прямая ссылка на текущую песню при точном совпадении в Яндекс Музыке."
 }
